@@ -1,0 +1,5 @@
+*.org
+/pruebas
+__pycache__
+*~
+*.txt
